@@ -1,30 +1,70 @@
-<h1 align="center">Hi 👋, I'm Fidelis(fidexcode)</h1>
-<h3 align="center">Frontend developer</h3>
+# Hi there 👋, I'm Fidelis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fidelisobioma&label=Profile%20views&color=0e75b6&style=flat" alt="fidelisobioma" /> </p>
+💻 Front-End Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidelisobioma" alt="fidelisobioma" /></a> </p>
+I specialize in building **modern, responsive, and user-friendly web applications** using the latest front-end technologies.  
+Passionate about **clean code, sleek design, and smooth user experiences**.
 
-<p align="left"> <a href="https://twitter.com/fidexcode" target="blank"><img src="https://img.shields.io/twitter/follow/fidexcode?logo=twitter&style=for-the-badge" alt="fidexcode" /></a> </p>
+---
 
-- Project I worked on [Rest countries app](https://rest-countries-app-chi.vercel.app/)
+## 🚀 Tech Stack  
 
-- Project I worked on [Space tourism](https://space-tourism-omega-sandy.vercel.app/technology)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 💬 Ask me about **git, react, JavaScript,tailwind, CSS, and HTML**
+### 🛠 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 📫 How to reach me **mbamfidelisobioma1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fidexcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fidexcode" height="30" width="40" /></a>
+## 🌟 Featured Projects  
+
+### 🎧 Audiophile  
+Audiophile is a modern e-commerce platform for premium headphones, earphones, speakers, and audio accessories. I focused on solving real-world challenges such as creating a seamless shopping experience, optimizing performance, and ensuring responsive design. The project features intuitive navigation, reusable UI components, and a clean layout that helps users explore and compare products with ease.
+
+🔗 [View Project](https://audiophile-peach.vercel.app/) | 💻 [Source Code](https://github.com/fidelisobioma/audiophile.git)
+
+---
+
+### 🌍 Rest Countries App  
+The Rest Countries App provides detailed data about countries, including population, languages, capital cities, currencies, regions, and native names. I built this to address the challenge of presenting complex data in a simple and visually appealing way. It includes features like search, filtering, and country exploration, offering users a smooth and informative experience.
+
+🔗 [View Project](https://rest-countries-app-chi.vercel.app/) | 💻 [Source Code](https://github.com/fidelisobioma/Rest-countries-api.git)
+
+---
+
+### 💳 Digital Bank  
+Digital Bank is a modern landing page for an online banking platform that highlights services such as spending, saving, budgeting, and investing. I designed it with a clean, responsive layout and engaging interactions, ensuring a smooth user experience across devices. The project demonstrates my ability to transform design concepts into functional, user-friendly interfaces.
+
+🔗 [View Project](https://digitalbank-landing-page.vercel.app/) | 💻 [Source Code](https://github.com/fidelisobioma/Digitalbank-landing-page.git)
+
+---
+
+### 🖥️ Portfolio Website  
+My portfolio is a personal website that showcases my skills, projects, and professional journey as a front-end developer. I structured it with clarity and responsiveness in mind, allowing visitors to easily navigate through sections like About Me, Skills, Projects, and Contact. It reflects my problem-solving approach and commitment to creating smooth, engaging user experiences.
+
+🔗 [View Project](https://fidexcode2-0.vercel.app/#home) | 💻 [Source Code](https://github.com/fidelisobioma/fidexcode2.0.git)
+
+
+## 📫 Connect With Me  
+
+<p align="center">
+   <a href="https://x.com/fidexcode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fidexcode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mbamfidelisobioma1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fidelisobioma&show_icons=true&locale=en&layout=compact" alt="fidelisobioma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelisobioma&show_icons=true&locale=en" alt="fidelisobioma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fidelisobioma&" alt="fidelisobioma" /></p>
+⭐️ From [fidelisobioma](https://github.com/fidelisobioma)
