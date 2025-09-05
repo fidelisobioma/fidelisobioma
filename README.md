@@ -46,7 +46,7 @@ Digital Bank is a modern landing page for an online banking platform that highli
 ---
 
 ### 🖥️ Portfolio Website  
-My portfolio is a personal website that showcases my skills, projects, and professional journey as a front-end developer. I structured it with clarity and responsiveness in mind, allowing visitors to easily navigate through sections like About Me, Skills, Projects, and Contact. It reflects my problem-solving approach and commitment to creating smooth, engaging user experiences.
+My portfolio is a personal website that showcases my skills, projects, and professional journey as a front-end developer. I structured it with clarity and responsiveness in mind, allowing visitors to easily navigate through sections like About Me, Skills, Portfolio, and Contact. It reflects my problem-solving approach and commitment to creating smooth, engaging user experiences.
 
 🔗 [View Project](https://fidexcode2-0.vercel.app/#home) | 💻 [Source Code](https://github.com/fidelisobioma/fidexcode2.0.git)
 
