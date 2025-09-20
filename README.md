@@ -31,8 +31,8 @@ Audiophile is a modern e-commerce platform for premium headphones, earphones, sp
 
 ---
 
-### 🌍 Rest Countries App  
-The Rest Countries App provides detailed data about countries, including population, languages, capital cities, currencies, regions, and native names. I built this to address the challenge of presenting complex data in a simple and visually appealing way. It includes features like search, filtering, and country exploration, offering users a smooth and informative experience.
+### 🌍 Rest Countries API  
+The Rest Countries API provides detailed data about countries, including population, languages, capital cities, currencies, regions, and native names. I built this to address the challenge of presenting complex data in a simple and visually appealing way. It includes features such as search, filtering, and country exploration, providing users with a smooth and informative experience.
 
 🔗 [View Project](https://rest-countries-app-chi.vercel.app/) | 💻 [Source Code](https://github.com/fidelisobioma/Rest-countries-api.git)
 
