@@ -39,7 +39,7 @@ The Rest Countries API provides detailed data about countries, including populat
 ---
 
 ### 💳 Digital Bank  
-Digital Bank is a modern landing page for an online banking platform that highlights services such as spending, saving, budgeting, and investing. I designed it with a clean, responsive layout and engaging interactions, ensuring a smooth user experience across devices. The project demonstrates my ability to transform design concepts into functional, user-friendly interfaces.
+I built a highly responsive, functional, accessible, and user-friendly landing page for an online bank. Translating design into pixel-perfect code that meets design requirements. 
 
 🔗 [View Project](https://digitalbank-landing-page.vercel.app/) | 💻 [Source Code](https://github.com/fidelisobioma/Digitalbank-landing-page.git)
 
